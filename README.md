@@ -1,16 +1,24 @@
-## Hi there 👋
+# About Me
 
-<!--
-**yuto90/yuto90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a software developer from Japan
 
-Here are some ideas to get you started:
+2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. You can find my Tech Blog at [turezure](https://gakogako.com/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,dart," /> <br /><br />
+and more ...
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,nestjs,flutter,wordpress" /> <br /><br />
+and more ...
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,gcp,figma,nginx,prisma,vim,vite,terraform,supabase,kubernetes,jest,arduino" /> <br /><br />
+and more ...
