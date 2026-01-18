@@ -2,7 +2,7 @@
 
 1. I'm a software developer from Japan
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
+2. My favorites are TypeScript, NestJS, Express, Flutter, AWS, Vim
 
 3. You can find my Tech Blog at [turezure](https://gakogako.com/)
 
